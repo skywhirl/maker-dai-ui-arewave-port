@@ -1,4 +1,4 @@
-# Oasis Borrow/Save Permaweb/Arweave Port
+# Oasis Borrow/Save Arweave Port
 
 [![Build Status][build]][build-url]
 [![Coverage Status][cover]][cover-url]
